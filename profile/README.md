@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/67703407/139008772-a43b301d-2647-4cf4-884e-fcf48a624aff.png)
+
 <div align="center">
     <h1>SouJavaScript - Collaboration 1st, Code 2nd!</h1>
     <p> Here, right now on <b> your </b> screen, you are in the presence of the most inclusive <i> Open Source </i> community on the planet! </p>
